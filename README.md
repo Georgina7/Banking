@@ -1,4 +1,4 @@
-# Banking
+# Simple Banking Application
 ## Application Screenshots
 ### Login Page
 ![LOGIN](https://github.com/Georgina7/Banking/blob/master/Images/Login.PNG)
