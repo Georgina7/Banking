@@ -1,5 +1,5 @@
 # Simple Banking Application
-Language used - Java
+Language used - Java <br/>
 Connection to database - JDBC
 ## Application Screenshots
 ### Login Page
